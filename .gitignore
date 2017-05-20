@@ -6,3 +6,7 @@ coverage
 .idea/
 .yarn-cache
 .elasticbeanstalk/
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
