@@ -17,7 +17,7 @@
     "type": "git",
     "url": "git+https://github.com/EdwardS2013/react-redux-starter-kit.git"
   },
-  "author": "David Zukowski <david@zuko.me> (http://zuko.me)",
+  "author": "me",
   "license": "MIT",
   "dependencies": {
     "airapi": "^0.1.0",
